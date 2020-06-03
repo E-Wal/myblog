@@ -33,23 +33,3 @@ Vielen lieben Dank André für die lehrreiche Kurszeit sagen dir:
     <td>Sonja & Ida</td>
 </tr>
 </table>
-
-
-
-- Alexander
-- Christian
-- Christina
-- Elena
-- Elena
-- Elisa
-- Erik
-- Fanny-Elisa
-- Frank
-- Hanna
-- Ida
-- Jeremiah
-- Johann
-- Julian
-- Leon
-- Simon
-- Sonja
