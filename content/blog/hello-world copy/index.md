@@ -6,7 +6,7 @@ description: "Unser erster eigener Blog!"
 
 Vielen lieben Dank André für die lehrreiche Kurszeit sagen dir:
 
-<table border="1">
+<table border="0">
  <tr>
     <td>Alexander</td>
     <td>Christian</td>
