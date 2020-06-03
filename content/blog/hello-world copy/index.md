@@ -4,7 +4,20 @@ date: "2020-05-30"
 description: "Unser erster eigener Blog!"
 ---
 
-Vielen lieben Dank André für deinen Kurs *"Programmiere deinen ersten eigenen Blog"* sagen dir:
+Vielen lieben Dank André für die lehrreiche Kurszeit sagen dir:
+
+<table border="0">
+ <tr>
+    <td>- Alexander</td>
+    <td>- Christian</td>
+ </tr>
+ <tr>
+    <td>- Christina</td>
+    <td>- Elena</td>
+</tr>
+</table>
+
+
 
 - Alexander
 - Christian
