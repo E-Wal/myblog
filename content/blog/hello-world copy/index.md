@@ -1,12 +1,33 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World Copy"
+title: Unser erster eigener Blog!
+date: "2020-05-30"
+description: "Unser erster eigener Blog!"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Vielen lieben Dank André für deinen Kurs *"Programmiere deinen ersten eigenen Blog"* sagen dir:
 
-I'm sure I'll write a lot more interesting things in the future.
+- Alexander
+- Christian
+- Christina
+- Elena
+- Elena
+- Elisa
+- Erik
+- Fanny-Elisa
+- Frank
+- Hanna
+- Ida
+- Jeremiah
+- Johann
+- Julian
+- Leon
+- Simon
+- Sonja
+
+
+
+
+
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).

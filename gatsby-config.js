@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `✨CyberPfingstAkademie 2020✨`,
     author: {
-      name: `Kurs "Programmiere deinen ersten eigenen Blog"`,
-      summary: `der von André Kovac auf der PfingstAkademie 2020 angeboten wurde.`
+      name: `Programmiere deinen ersten eigenen Blog`,
+      summary: `, der von André Kovac auf der PfingstAkademie 2020 angeboten wurde.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Ein Kursleitergeschenk.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `kylemathews`
