@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Rotations-Beispiel-Blog`,
+    title: `✨CyberPfingstAkademie 2020✨`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Kurs "Programmiere deinen ersten eigenen Blog"`,
+      summary: `der von André Kovac auf der PfingstAkademie 2020 angeboten wurde.`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
