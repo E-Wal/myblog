@@ -11,28 +11,25 @@ Vielen lieben Dank André für die lehrreiche Kurszeit sagen dir:
     <td>Alexander</td>
     <td>Christian</td>
     <td>Christina</td>
+    <td>Elena</td>
  </tr>
  <tr>
     <td>Elena</td>
-    <td>Elena</td>
     <td>Elisa</td>
-</tr>
- <tr>
     <td>Elisa</td>
     <td>Fanny-Elisa</td>
+</tr>
+ <tr>
     <td>Frank</td>
-</tr>
- <tr>
     <td>Hanna</td>
-    <td>Ida</td>
     <td>Jeremiah</td>
+    <td>Johann</td>
 </tr>
  <tr>
-    <td>Johann</td>
     <td>Julian</td>
     <td>Leon</td>
-</tr>
-<tr>
     <td>Simon</td>
-    <td>Sonja</td>
+    <td>Sonja & Ida</td>
+</tr>
+
 </table>
